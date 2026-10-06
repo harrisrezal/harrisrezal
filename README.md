@@ -1,7 +1,6 @@
-# Harris Chew
+# AI-Native Product & Operations Leader
 
-**AI-native product & operations leader** — Founding PM & COO at Cyberland.
-Ex-EdTech co-founder (GoDigi). I build AI tools and agent workflows, for myself and for the company.
+Founding PM & COO at Cyberland. Ex-EdTech co-founder (GoDigi). I build AI tools and agent workflows, for myself and for the company.
 
 Bay Area · [harrischew.com](https://www.harrischew.com) · [LinkedIn](https://www.linkedin.com/in/harrischew/)
 
