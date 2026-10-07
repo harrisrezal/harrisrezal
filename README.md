@@ -8,6 +8,7 @@ Bay Area · [harrischew.com](https://www.harrischew.com) · [LinkedIn](https://w
 
 - **[Personal Bookkeeping Bot](https://github.com/harrisrezal/personal-bookkeeping-bot)**: text, receipt photo or voice note → Gemini extracts the amount → logs to Google Sheets. In daily use. Open source, with a PRD so an agent can rebuild it.
 - **[Bay Wheels fleet rebalancing](https://fleet.harrischew.com)**: analysis of Lyft Bay Wheels fleet failure from public live data, with live figures on the site.
+- **Credential Resume Review** (in development): AI resume review for special education teachers and early intervention specialists, whose credentialing is state-specific. Checks that can be verified from text run as code, and only the judgment calls go to Gemini.
 - **TimelyCal**: Telegram assistant for Caltrain: RAG over the timetable plus real-time delay alerts.
 - **Agent Army**: a personal AI agency of specialist agents sharing one second brain. Roster at [harrischew.com](https://www.harrischew.com).
 
